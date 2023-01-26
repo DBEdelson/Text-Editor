@@ -81,7 +81,7 @@ To run via local environment:
 
 MIT License
 
-Copyright (c) [2022] [DBEelson]
+Copyright (c) [2023] [DBEelson]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
