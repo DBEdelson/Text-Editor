@@ -71,9 +71,8 @@ To run via local environment:
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-## How to Contribute
-
-[Contributor Covenant](https://www.contributor-covenant.org/) 
+## Credits
+Debug: Salissa Github: https://github.com/salissa4
 
 ## Credits 
 Debug: Shawn Tschoepe Github: https://github.com/shawn220a
@@ -82,7 +81,7 @@ Debug: Shawn Tschoepe Github: https://github.com/shawn220a
 
 MIT License
 
-Copyright (c) [2022] [DBEelson]
+Copyright (c) [2023] [DBEelson]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
