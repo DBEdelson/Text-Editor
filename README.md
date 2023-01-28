@@ -72,10 +72,8 @@ To run via local environment:
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## Credits
-Debug: Salissa Github: https://github.com/salissa4
-
-## Credits 
 Debug: Shawn Tschoepe Github: https://github.com/shawn220a
+Debug: Salissa Github: https://github.com/salissa4
 
 ## License
 
